@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c3d0cd5-c4bc-45fb-8a6b-dea17a3bbe0e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="8c3d0cd5-c4bc-45fb-8a6b-dea17a3bbe0e" name="Default" comment="" />
     <ignored path="Material-design-LoginAndSignup.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="8c3d0cd5-c4bc-45fb-8a6b-dea17a3bbe0e" time="1412909106247" ignored="false" />
@@ -40,19 +38,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stylesheets/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2612" column="44" selection-start="83782" selection-end="83782" vertical-scroll-proportion="-310.8">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="38" selection-start="286" selection-end="286" vertical-scroll-proportion="0.33992806">
+            <state line="2612" column="44" selection-start="83782" selection-end="83782" vertical-scroll-proportion="15.938224">
               <folding />
             </state>
           </provider>
@@ -324,13 +313,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2612" column="44" selection-start="83782" selection-end="83782" vertical-scroll-proportion="-310.8">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/login1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="30" selection-start="1081" selection-end="1081" vertical-scroll-proportion="-10.323529">
@@ -340,7 +322,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="38" selection-start="286" selection-end="286" vertical-scroll-proportion="0.33992806">
+        <state line="7" column="61" selection-start="302" selection-end="302" vertical-scroll-proportion="0.33992806">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2612" column="44" selection-start="83782" selection-end="83782" vertical-scroll-proportion="15.938224">
           <folding />
         </state>
       </provider>
