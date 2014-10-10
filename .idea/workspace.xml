@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c3d0cd5-c4bc-45fb-8a6b-dea17a3bbe0e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="8c3d0cd5-c4bc-45fb-8a6b-dea17a3bbe0e" name="Default" comment="" />
     <ignored path="Material-design-LoginAndSignup.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="8c3d0cd5-c4bc-45fb-8a6b-dea17a3bbe0e" time="1412909106247" ignored="false" />
+    <file path="/Dummy.txt" changelist="8c3d0cd5-c4bc-45fb-8a6b-dea17a3bbe0e" time="1412913224974" ignored="false" />
     <file path="$USER_HOME$/Desktop/Se7en/2/login1.html" changelist="8c3d0cd5-c4bc-45fb-8a6b-dea17a3bbe0e" time="1412860377394" ignored="false" />
     <file path="$USER_HOME$/Desktop/Se7en/2/javascripts/main.js" changelist="8c3d0cd5-c4bc-45fb-8a6b-dea17a3bbe0e" time="1412860036125" ignored="false" />
     <file path="/login1.html" changelist="8c3d0cd5-c4bc-45fb-8a6b-dea17a3bbe0e" time="1412908593608" ignored="false" />
@@ -32,7 +30,7 @@
       <file leaf-file-name="login1.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/login1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="122" selection-start="1836" selection-end="1836" vertical-scroll-proportion="0.5304519">
+            <state line="42" column="20" selection-start="1813" selection-end="1813" vertical-scroll-proportion="2.227898">
               <folding />
             </state>
           </provider>
@@ -112,6 +110,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -146,7 +145,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,8 +152,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Se7en/2" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -262,6 +260,27 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/login1.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="122" selection-start="1836" selection-end="1836" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="136" column="32" selection-start="2986" selection-end="2986" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="53" selection-start="0" selection-end="573" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login1.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="78" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.0">
           <folding />
         </state>
@@ -321,7 +340,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/login1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="122" selection-start="1836" selection-end="1836" vertical-scroll-proportion="0.5304519">
+        <state line="42" column="20" selection-start="1813" selection-end="1813" vertical-scroll-proportion="2.227898">
           <folding />
         </state>
       </provider>
