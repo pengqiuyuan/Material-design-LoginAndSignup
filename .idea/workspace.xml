@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c3d0cd5-c4bc-45fb-8a6b-dea17a3bbe0e" name="Default" comment="" />
+    <list default="true" id="8c3d0cd5-c4bc-45fb-8a6b-dea17a3bbe0e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login1.html" afterPath="$PROJECT_DIR$/login1.html" />
+    </list>
     <ignored path="Material-design-LoginAndSignup.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="8c3d0cd5-c4bc-45fb-8a6b-dea17a3bbe0e" time="1412913224974" ignored="false" />
+    <file path="/Dummy.txt" changelist="8c3d0cd5-c4bc-45fb-8a6b-dea17a3bbe0e" time="1412913353151" ignored="false" />
     <file path="$USER_HOME$/Desktop/Se7en/2/login1.html" changelist="8c3d0cd5-c4bc-45fb-8a6b-dea17a3bbe0e" time="1412860377394" ignored="false" />
     <file path="$USER_HOME$/Desktop/Se7en/2/javascripts/main.js" changelist="8c3d0cd5-c4bc-45fb-8a6b-dea17a3bbe0e" time="1412860036125" ignored="false" />
-    <file path="/login1.html" changelist="8c3d0cd5-c4bc-45fb-8a6b-dea17a3bbe0e" time="1412908593608" ignored="false" />
+    <file path="/login1.html" changelist="8c3d0cd5-c4bc-45fb-8a6b-dea17a3bbe0e" time="1412922961929" ignored="false" />
+    <file path="/signup1.html" changelist="8c3d0cd5-c4bc-45fb-8a6b-dea17a3bbe0e" time="1412922914838" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +33,16 @@
       <file leaf-file-name="login1.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/login1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="20" selection-start="1813" selection-end="1813" vertical-scroll-proportion="2.227898">
+            <state line="43" column="177" selection-start="2014" selection-end="2014" vertical-scroll-proportion="1.6444008">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="signup1.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/signup1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="95" selection-start="1935" selection-end="1935" vertical-scroll-proportion="-7.029412">
               <folding />
             </state>
           </provider>
@@ -39,7 +51,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stylesheets/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="136" column="32" selection-start="2986" selection-end="2986" vertical-scroll-proportion="0.0">
+            <state line="136" column="32" selection-start="2955" selection-end="2955" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -74,6 +86,7 @@
       <list>
         <option value="$PROJECT_DIR$/javascripts/main.js" />
         <option value="$PROJECT_DIR$/stylesheets/style.css" />
+        <option value="$PROJECT_DIR$/signup1.html" />
         <option value="$PROJECT_DIR$/login1.html" />
       </list>
     </option>
@@ -152,8 +165,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Se7en/2" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -258,6 +271,13 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/javascripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="53" selection-start="0" selection-end="573" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/login1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="42" column="122" selection-start="1836" selection-end="1836" vertical-scroll-proportion="0.0">
@@ -328,7 +348,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="136" column="32" selection-start="2986" selection-end="2986" vertical-scroll-proportion="0.0">
+        <state line="136" column="32" selection-start="2955" selection-end="2955" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -338,9 +358,23 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="33" selection-start="226" selection-end="226" vertical-scroll-proportion="0.2913669">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signup1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="95" selection-start="1935" selection-end="1935" vertical-scroll-proportion="-7.029412">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/login1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="20" selection-start="1813" selection-end="1813" vertical-scroll-proportion="2.227898">
+        <state line="43" column="177" selection-start="2014" selection-end="2014" vertical-scroll-proportion="1.6444008">
           <folding />
         </state>
       </provider>
