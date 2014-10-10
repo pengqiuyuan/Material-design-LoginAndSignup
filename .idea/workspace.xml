@@ -11,7 +11,7 @@
     <file path="$USER_HOME$/Desktop/Se7en/2/javascripts/main.js" changelist="8c3d0cd5-c4bc-45fb-8a6b-dea17a3bbe0e" time="1412860036125" ignored="false" />
     <file path="/login1.html" changelist="8c3d0cd5-c4bc-45fb-8a6b-dea17a3bbe0e" time="1412909772930" ignored="false" />
     <file path="/style.css" changelist="8c3d0cd5-c4bc-45fb-8a6b-dea17a3bbe0e" time="1412909724888" ignored="false" />
-    <file path="/README.md" changelist="8c3d0cd5-c4bc-45fb-8a6b-dea17a3bbe0e" time="1412912968858" ignored="false" />
+    <file path="/README.md" changelist="8c3d0cd5-c4bc-45fb-8a6b-dea17a3bbe0e" time="1412913141880" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="31" selection-end="286" vertical-scroll-proportion="0.097122304">
+            <state line="7" column="38" selection-start="286" selection-end="286" vertical-scroll-proportion="0.33992806">
               <folding />
             </state>
           </provider>
@@ -340,7 +340,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="31" selection-end="286" vertical-scroll-proportion="0.097122304">
+        <state line="7" column="38" selection-start="286" selection-end="286" vertical-scroll-proportion="0.33992806">
           <folding />
         </state>
       </provider>
