@@ -30,19 +30,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="login1.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="login1.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="78" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.21218075">
+            <state line="27" column="20" selection-start="1139" selection-end="1139" vertical-scroll-proportion="-5.5588236">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stylesheets/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="136" column="32" selection-start="2986" selection-end="2986" vertical-scroll-proportion="0.0">
+            <state line="141" column="17" selection-start="3118" selection-end="3118" vertical-scroll-proportion="0.5451197">
               <folding />
             </state>
           </provider>
@@ -78,8 +78,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/javascripts/main.js" />
-        <option value="$PROJECT_DIR$/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/login1.html" />
+        <option value="$PROJECT_DIR$/stylesheets/style.css" />
       </list>
     </option>
   </component>
@@ -293,13 +293,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="136" column="32" selection-start="2986" selection-end="2986" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/logo-login@2x.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -307,7 +300,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/login1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="78" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.21218075">
+        <state line="27" column="20" selection-start="1139" selection-end="1139" vertical-scroll-proportion="-5.5588236">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="17" selection-start="3118" selection-end="3118" vertical-scroll-proportion="0.5451197">
           <folding />
         </state>
       </provider>
